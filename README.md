@@ -8,6 +8,15 @@ A creative audio editing project that transforms the intense atmosphere of a blo
 
 ---
 
+## Project Links
+
+| Asset | Link |
+| :--- | :--- |
+| **Final Video** | [Watch the Comedy Trailer](https://javerianacaliedu-my.sharepoint.com/:v:/g/personal/juango26_javerianacali_edu_co/Edf3Y1AMXZhNsWaNo2gEZ2QBT4cyGDs1c_vd8BCbkrBAbw?e=ewBMmm) |
+| **Project Files (Audio)** | [Download Audio Assets](https://javerianacaliedu-my.sharepoint.com/:u:/g/personal/juango26_javerianacali_edu_co/EYkFP2PWW2hFlCFMJoVuTgYBJe1Audn28dF_i7rFErudyQ?e=zPNcfp) |
+| **Original Video** | [Watch the Original Trailer](https://www.youtube.com/watch?v=pgNCgJG0vnY) |
+---
+
 ## Team
 
 | Role | Name |
@@ -54,14 +63,5 @@ The final result successfully shifted the trailer's tone from a **dramatic, acti
 
 We chose this approach because humor allows us to **reimagine serious or violent content in a lighter, more accessible way**.
 By parodying the trailer, we aimed to **critique the overly dramatic tone of modern video game marketing** while making the content more **engaging, entertaining, and shareable** for a wider audience.
-
----
-
-## Project Links
-
-| Asset | Link |
-| :--- | :--- |
-| **Final Video** | [Watch the Comedy Trailer](https://javerianacaliedu-my.sharepoint.com/:v:/g/personal/juango26_javerianacali_edu_co/Edf3Y1AMXZhNsWaNo2gEZ2QBT4cyGDs1c_vd8BCbkrBAbw?e=ewBMmm) |
-| **Project Files (Audio)** | [Download Audio Assets](https://javerianacaliedu-my.sharepoint.com/:u:/g/personal/juango26_javerianacali_edu_co/EYkFP2PWW2hFlCFMJoVuTgYBJe1Audn28dF_i7rFErudyQ?e=zPNcfp) |
 
 ---
