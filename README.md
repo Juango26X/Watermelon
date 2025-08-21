@@ -35,12 +35,12 @@ The goal was to transform the dramatic and intense tone of the original trailer 
 
 We implemented several key changes to achieve our comedic vision:
 
-- ** Sound Design:** Added **cartoon-style sound effects** to create a more comedic and absurd atmosphere.
-- ** Dialogue Overhaul:** Replaced the original serious **political speech** with a **funny dialogue** about video games and religion.
-- ** Voice Modulation:** Changed the **voice tone** from dramatic war cries to a comical **chipmunk-like voice** using pitch-shifting.
-- ** Internet Humor:** Included intentionally **low-quality sound clips** commonly found in internet meme videos.
-- ** Meme-worthy Explosions:** For explosion sounds, we used a **popular meme sound effect** widely recognized in comedic content.
-- ** Audio Separation:** Used AI tools to cleanly separate voices from sound effects, allowing for precise editing.
+- **Sound Design:** Added **cartoon-style sound effects** to create a more comedic and absurd atmosphere.
+- **Dialogue Overhaul:** Replaced the original serious **political speech** with a **funny dialogue** about video games and religion.
+- **Voice Modulation:** Changed the **voice tone** from dramatic war cries to a comical **chipmunk-like voice** using pitch-shifting.
+- **Internet Humor:** Included intentionally **low-quality sound clips** commonly found in internet meme videos.
+- **Meme-worthy Explosions:** For explosion sounds, we used a **popular meme sound effect** widely recognized in comedic content.
+- **Audio Separation:** Used AI tools to cleanly separate voices from sound effects, allowing for precise editing.
 
 ---
 
